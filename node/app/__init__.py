@@ -1,0 +1,1 @@
+"""Smite Node Application"""
